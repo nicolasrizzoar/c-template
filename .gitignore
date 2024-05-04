@@ -62,3 +62,6 @@ dkms.conf
 
 # Documentation files
 doc/
+
+
+.DS_Store
